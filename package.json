@@ -9,7 +9,7 @@
 		"languages": [{
 			"id": "java-properties",
 			"aliases": ["Java Properties", "java-properties"],
-			"extensions": [".bnd", ".properties"],
+			"extensions": [".bnd", ".properties", ".prop"],
 			"configuration": "./java-properties.configuration.json"
 		}],
 		"grammars": [{
